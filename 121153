@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html >
+<head>
+<meta charset="utf-8">
+<link href="b.css" rel="stylesheet" type="text/css" >
+</head>
+<title> سياحة داخلية </title>
+<body>
+<table >
+<tr height = 200>
+<td colspan=8 ><img src="126.png"> 
+</td>
+</tr>
+<tr>
+<td colspan=8>
+<hr size=4  width=100% color=pink >
+</tr>
+<tr height=40>
+<td   colspan=3 > <h3 class="h"> <marquee scrolldelay=50 direction="right" > WELCOME TO SKY EGYPT  </marquee></td>
+<td width=100  ><h3  class="h"> <a href="اتصل بنا.html"> اتصل بنا </a></td>
+<td  width=100 ><h3 class="h"> <a href="جولات سياحية.html"> جولات سياحية </a> </td>
+<td  width=100 ><h3 class="h"> <a href="سياحة خارجية.html">سياحة خارجية  </a></td>
+<td  width=100><h3 class="h"> <a href="سياحة داخلية.html">  سياحة داخلية  </a> </td>
+<td  width=100  ><h3 class="h"> <a href="index.html"> الرئيسية </a> </td>
+</tr>
+<tr>
+<td colspan=8>
+<hr size=4  width=100% color=pink >
+</tr>
+<tr height=336>
+<td  width=628 colspan=4><a href="العين السخنة.html"><img src="39.png"></a></td>
+<td  width=614 colspan=4> <a href="الغردقة 1.html"><img src="37.png"></a></td>
+</tr>
+<tr height=336>
+<td  width=628 colspan=4><a href="راس سدر.html"><img src="36.png"> </a> </td>
+<td  width=614 colspan=4><a href="اسكندرية.html"><img src="35.png"> </a> </td>
+</tr>
+<tr height=336>
+<td  width=628 colspan=4><a href="الجونة.html"><img src="511.png"></a></td>
+<td  width=614 colspan=4><a href="طابا.html"><img src="33.png"></a></td>
+</tr>
+<tr height=336>
+<td  width=628 colspan=4> <a href="القاهرة.html"> <img src="32.png"> </a> </td>
+<td  width=614 colspan=4><a href="دهب 1.html"><img src="31.png"> </a> </td>
+</tr>
+<tr height=336>
+<td  width=628 colspan=4><a href="مرسي علم.html"> <img src="30.png"></a></td>
+<td  width=614 colspan=4><a href="الاقصر.html"> <img src="29.png"></a></td>
+</tr>
+
+
+
+
+<tr height=40 >
+<td colspan=8 width=1270>
+</td>
+</tr>
+
+<tr>
+<td colspan=2 >
+<h2 class="z">أماكن الفروع </h2>
+<li>
+<a  href="https://goo.gl/maps/VBcLpS7dfvG2">  المركز الرئيسى : مصر الجديدة  <br>
+ 8 عمارات العبور صلاح سالم <br>
+<img src="2011.png">
+</a><br>
+</li><br> 
+
+<td colspan=2 >
+<h2 class="z">  للتواصل معانا   </h2> 
+ <h4 class="f">  م.الجديدة/ 01280007400 </h4>  
+ <h4 class="f"">   المهندسين/ 01280007500 </h4>
+ <h4 class="f">    التجمع/ 01280007600 </h4> 
+
+
+<td colspan=3 align="right">
+<h2 class="z"> عروض سكاي إيجيبت   </h2> 
+
+<h3 class="g"> <a href="اتصل بنا.html"> اتصل بنا </a> </h3>
+<h3 class="g" > <a href="جولات سياحية.html"> جولات سياحية </a> </h3>
+<h3 class="g"> <a href="سياحة خارجية.html">سياحة خارجية  </a> </h3>
+<h3 class="g"> <a href="سياحة داخلية.html">  سياحة داخلية  </a> </h3>
+<h3 class="g"> <a href="index.html"> الرئيسية </a> </h3>
+</tr>
+
+<tr>
+<td   colspan=2  >
+<li>
+<a  href="https://goo.gl/maps/B2NEENeBC4627hET6">فرع المهندسين   <br>
+80 محيى الدين ابو العز امام بوابة 2 لنادى الصيد <br>
+<img src="2012.png">
+</a><br>
+</li><br>
+</tr>
+
+<tr>
+<td  colspan=2  >
+<li>
+<a  href="https://goo.gl/maps/fACzcLgxszp2KqiX6"> فرع القاهره الجديدة / التجمع   <br>
+ش التسعين الجنوبى ، هلا مول 314 ، الدور الثاني ، بجوار سيراميكا كليوباترا <br>
+</li>
+<img src="2013.png">
+</a><br>
+</li><br>
+</tr>
+
+<tr height = 40>
+<td colspan=8 ><br> <h5 class="u"> SKY EGYPT حقوق النشر محفوظة لموقع  
+</td>
+</html>
